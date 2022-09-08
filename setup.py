@@ -53,7 +53,7 @@ setup(
         "h5py",
         "icetk",
         "imageio_ffmpeg",
-        "localAttention @ git+https://github.com/Sleepychord/Image-Local-Attention.git",
+        # "localAttention @ git+https://github.com/Sleepychord/Image-Local-Attention.git",
         "joblib",
         "jsonmerge",
         "kornia",
